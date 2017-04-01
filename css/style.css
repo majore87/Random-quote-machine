@@ -1,0 +1,43 @@
+* {
+	color: white;
+	box-sizing: border-box;
+}
+body {
+	margin: 0;
+	font-family: 'Open Sans', sans-serif;
+}
+main {
+	background-color: #55ACEE;
+	height: 100vh;
+	text-align: center;
+}
+header h1 {
+	text-align: center;
+	padding-top: 10vh;
+	font-size: 70px;
+}
+.box {
+	text-align: center;
+	padding-top: 10VH
+}
+.box h3 {
+	padding: 20px;
+}
+.btn-trigger {
+	padding-top: 10vh;
+}
+.trigger {
+	width: 400px;
+	height: 50px;
+	font-size: 25px;
+	background-color: #55ACEE;
+	border-color: white;
+	border-radius: 10px;
+	border-width: 2px;
+}
+.btn-tweet {
+	margin-top: 20px;
+}
+.tweet {
+	text-decoration: none;
+}
